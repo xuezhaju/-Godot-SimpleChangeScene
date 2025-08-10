@@ -48,6 +48,7 @@
 
 ## 🛠️ 下载版本选择
 
-- 插件本体：
+- 插件本体：https://github.com/xuezhaju/-Godot-SimpleChangeScene/releases/tag/%E6%8F%92%E4%BB%B6%E6%9C%AC%E4%BD%93
 
-- 插件本体 + 测试场景：
+- 插件本体 + 测试场景：https://github.com/xuezhaju/-Godot-SimpleChangeScene/releases/tag/%E6%8F%92%E4%BB%B6%E6%9C%AC%E4%BD%93
+  - 并选择 CodeAndScene.7z 文件下载
