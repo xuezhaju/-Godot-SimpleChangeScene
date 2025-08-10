@@ -1,0 +1,24 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="SimpleChangeScene"
+run/main_scene="uid://dnr0p7lojw5tn"
+config/features=PackedStringArray("4.4", "Forward Plus")
+config/icon="res://SimpleChangeScene/icon.svg"
+
+[autoload]
+
+SimpleChangeScene="*res://SimpleChangeScene/SimpleChangeScene.gd"
+
+[editor_plugins]
+
+enabled=PackedStringArray()
